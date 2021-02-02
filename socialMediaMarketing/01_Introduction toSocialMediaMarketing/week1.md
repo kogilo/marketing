@@ -62,5 +62,29 @@
    - Search engine marketers focus on making businesses and their products and services discoverable through search engines like Google.
    - **Search engine optimization (SEO)** focuses on increasing the chance that a website shows up as an organic search result when relevant keywords are typed into the search engine.
    - Organic search results are the results a search engine returns without anyone paying to have the results come up.
+   - **Search engine marketing (SEM)** or advertising, on the other hand, is focused on advertising associated with certain keywords.
+3. Display Advertising
+4. Email marketing
+5. Content Marketing
 
-- **Search engine marketing (SEM)** or advertising, on the other hand, is focused on advertising associated with certain keywords.
+=> Are the most common forms of Digital Marketing
+
+# Introduction to Social Media Marketing
+
+- 3.8 billion users
+- 2 hours 24 min time spent per day
+- 16-24 yo -spend close to 3 hours a day
+
+- **Social media marketing** is a form of digital marketing that uses social networking platforms or websites to promote a product or service.
+
+- There are **two** core elements that typically defined social media platforms.
+
+  - They let people
+
+  1. connect
+  2. create or share content.
+
+- There are different types of social networks. Some are more focused on connecting, and others on content creation.
+- Some target broad audiences and some are more focused on niches or interest groups.
+
+- Fred Cavazza divided up the landscape in few categories. In this overview, he categorizes the social media platforms in networking, publishing, sharing, messaging, discussing, and collaborating platforms.
