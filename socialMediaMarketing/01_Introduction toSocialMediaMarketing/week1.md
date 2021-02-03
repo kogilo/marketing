@@ -58,13 +58,16 @@
    - How you can build up and engage an audience,
    - Examples of social media marketing you may encounter include this Instagram account of Starbucks for instance, where they carefully curate posts for their followers,
 2. Search Engine Optimization (SEO and SEM):-
+
    - is another form of digital marketing is search engine optimization and search engine marketing, or SEO and SEM.
    - Search engine marketers focus on making businesses and their products and services discoverable through search engines like Google.
    - **Search engine optimization (SEO)** focuses on increasing the chance that a website shows up as an organic search result when relevant keywords are typed into the search engine.
    - **Organic search results**:- are the results a search engine returns without anyone paying to have the results come up. OR Search Results not paid for
-     [organic](organic.png)
+     ![organic](organic.png)
+
    - **Search engine marketing (SEM)** or advertising, on the other hand, is focused on `advertising associated with certain keywords`.
-     [SEM](SEM.png)
+     ![SEM](SEM.png)
+
 3. Display Advertising
 4. Email marketing
 5. Content Marketing
