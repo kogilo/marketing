@@ -126,3 +126,63 @@
 - One other way in which marketers engage on YouTube is through the use of `influencers`. YouTube stars have a `loyal audience` and they often cater to a `younger demographic`. That audience is attractive to marketers and they'll often partner with these YouTubers who have a lot of influence over their fans.
 - Marketers will `carefully select the influencers` they work with based on the demographics of their followers and the nature of their content, their personality, and their communication style. While working with influencers is certainly not limited to YouTube, the rise of the YouTube stars has made YouTube one of the most important ways to get a message out through influencers with a large fan base.
 - With over two billion users globally, it's an attractive place for marketers and one that features in many social media marketing campaigns.
+
+# Make Connections on WhatsApp and Messenger
+
+- 2 billion + people worldwide use WhatsApp
+- On WhatsApp, you can message your friends and family using your phones Internet connection so you can avoid SMS fees or charges you may incur on your data plan.
+
+- Similarly, you can also make free voice and video calls even to people in another country.
+  You can also send photos and videos on WhatsApp instantly with WhatsApp photos and video sent quickly, even if you're on a slow connection.
+- WhatsApp also has a feature called `status` which allows you to share text, photos, videos and animated gifs that disappear after 24 hours in order to send and receive status updates to and from your contacts.
+
+- Both you and your contacts must have each others phone numbers saved in your address book. Around the world we see that people are increasingly relying on WhatsApp for a few simple things `chats, calling and sharing`.
+- WhatsApp provides the intimacy of communicating one on one or we just a few friends. Which is why `privacy is a priority for the company`.
+- WhatsApp's commitment to user safety includes collecting is little data as possible. All a person needs is a phone number to get started. Each and every message delivered on WhatsApp is automatically encrypted end to end. So not even WhatsApp or Facebook can see its content.
+
+### Messenger chat platform
+
+- was developed as part of Facebook.
+- 1.3 billion people use Messenger every month, which puts Messenger as the second largest messaging app in the world after WhatsApp.
+- When you send a private message on Facebook, your messages sent on Messenger.
+- messaging app was originally developed as part of the social network but it launched as Facebook chat.
+- In the United States Messenger ranks as the second most popular iOS app of all time behind Facebook.
+- There are many different ways you can connect with people on Messenger.
+- Here are just a few features you can make calls to other people using Messenger.
+  - You can create group chats.
+  - You can share photos and videos.
+  - You can send stickers, emojis and gifs.
+  - You can play games with your friends or
+  - you can send Maps and your location.
+  - You can also use the Messenger camera to create playful photos and videos.
+  - You can capture a moment, doodle, then send it to your friends and you can share the final piece to your Facebook stories.
+- Another feature of Messenger camera you can use is the AR or Augmented reality filters. Add fun filters like bunny ears or a disco background to make your photos and videos more playful.
+- For instance, if you're feeling creative, you can even create a filter of your own with `spark`, AR, Facebook tool for building augmented reality effects.
+- When you create and share a reality experience, it can reach anyone who's using Facebook.
+- Similarly to WhatsApp, people use Messenger mainly to chat, call and share photos and videos.
+- In April 2020, Facebook also announced a new group video chat feature for Messenger called `rooms`. People who don't have Facebook accounts, can just join an open room with a link, and up to 50 people can join. If you have the Messenger app, you can play with AR effects like Bunny ears, and features like immersive 360 backgrounds, and mood lighting for instance.
+- The growth of messaging apps is not only changing the way we communicate, but also the way that people want and expect to engage with businesses.
+- 61% of people would choose messaging a business over picking up the phone.
+- 59% of people would choose messaging a business over sending an email.
+- many businesses have established a presence on messaging platforms.
+
+## WhatsApp and Messenger.
+
+- In January of 2018, WhatsApp officially launched WhatsApp Business, a free to download app available on Android and iPhone.
+- WhatsApp Business gives businesses access to tools to `automate, sort, and quickly respond to messages`, while still keeping the apps main chat functionality.
+- Businesses on WhatsApp can create a `business profile` with basic helpful information like `address, business description, email address and website`, which allows people to find them.
+
+- If your business has a presence on Facebook, you could also choose to use Messenger to stay connected with your customers. Messenger makes it easy to be responsive to customers, whether you want to manually manage conversations, or set up a custom set of automated responses to help you manage your communication.
+- Both Messenger and WhatsApp have features that can help businesses automate their messages, and stay connected with their customers 24/7, even when they're offline.
+
+- You can set `welcome messages, instant automated replies, or create quick replies`, so you can save and reuse messages you frequently send, so you can easily answer common questions in no time.
+- You can also use these quick replies to send rich media messages such as `gifs, images, and videos`.
+- Messenger and WhatsApp also let **businesses** make it clear to customers when they're available to respond, so you don't need to worry about questions that come in when there's no one available to answer them.
+- On WhatsApp, businesses can use labels to help them organize their contacts or chats, so they can easily find them again. This can help businesses organized customers based on how far down the purchase process the customers are.
+- They can then take action to help customers along. For example, you may want to message existing customers that haven't purchased the product in a few months with a promotion or a coupon. Or you may want to send a thank you to customers that just purchased. You can use labels to help organize and segment your contacts, which will enable you to access them faster. Let's take a look at how Mexico-based entrepreneurial mentor and coach, Lissette Mondragon used WhatsApp business to increase her sales. Lissette established Mujer Assertiva, a coaching and mentoring program for other female entrepreneurs back in 2016. Interest in Lissete's services, including one on one and group coaching, mentoring sessions, online conferences, and monthly challenges was growing. So she needed a way to connect with more women with a consistent message. To do so, she began using the WhatsApp Business app in March 2019. Lissette now connects with all 300 of her clients who are spread across ten states in Mexico, the US, Colombia, Peru, and Spain via the WhatsApp Business app. The app's labels feature helps Lissette organize her diverse clientele, by the services they want. And a quick reply feature has boosted her efficiency in responding to frequently asked questions from workshop invites to reminders and followups. The WhatsApp business app has helped Lissette to connect with more women in business and strengthen their leadership. Mujer Assertiva saw a 40% increase in new client contacts and a 10% increase in sales between March and December of 2019 as a result of its use of WhatsApp. Messenger and WhatsApp have become crucial tools for people to stay connected, and they clearly offered interesting ways for businesses to stay connected to their customers. A presence on WhatsApp and Messenger is often a great way for businesses to round out their social media marketing approach and enrich it with more personal customer care.
+
+### Messager
+
+- you can call, group chat, share photos and vedio,
+
+## Wahtapp Businesss tool
