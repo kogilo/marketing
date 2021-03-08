@@ -1,4 +1,4 @@
-# Managing Your Content and Interacting with your Followers
+# Effectively Creating and Producing Content
 
 ### Repurposing Content
 
@@ -31,3 +31,20 @@
 7. Audience format preference
 8. Search Engine Optimization (SEO) advantages
 9. Saves you time
+
+## Auditing Content
+
+- There's an old saying, "Nothing succeeds like success" from TV shows to cars to coffee. If a product is a hit with your audience, you'll want to try to replicate what you did to capture that success again.
+
+- An audit is simply a detailed list of what content you have and the engagement metrics associated with each piece of content.
+
+### Benefits of a Content Audit:
+
+- Better oversight
+- Identify valuable content
+- Find trends in engagement
+- Make improvements
+- Assess target audience fit
+- See the template
+- use google analaytics
+- No. of Visit, no. of visitor, and time spant on the page are good indicators
