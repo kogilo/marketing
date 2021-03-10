@@ -28,4 +28,5 @@
 3. Type of content
 
 - More on the next reading **VERY IMPORTANT**
-  ![ReadMore](https://www.coursera.org/learn/social-media-advertising-fundamentals/supplement/jV5Yu/overview-of-ad-formats-on-different-social-media-platforms)
+
+[ReadMore](https://www.coursera.org/learn/social-media-advertising-fundamentals/supplement/jV5Yu/overview-of-ad-formats-on-different-social-media-platforms)
