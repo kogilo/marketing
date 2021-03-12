@@ -26,7 +26,7 @@
      - Anyone who works with the personal data of people in the EU.
      - **How is it enforced?**
      - Supervisory authority in each EU country
-     - Fines up to 4% of annual revenue
+     - Fines up to 4% of `annual revenue`
   2. Data protection obligations for companies that collect data.
 
 - CCPA

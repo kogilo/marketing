@@ -8,7 +8,7 @@
 ## Data-Based Advertising
 
 - `86%` of time spent online in the US, is spent on advertising supported websites.
-- **Data-Based Advertising:** Data-based advertising uses data to optimize it audiences abd creative messaging.
+- **Data-Based Advertising:** Data-based advertising uses data to optimize it audiences ad creative messaging.
 
 - **Shifs in the Advertising Paradigm:**
 - Contextual Advertising
@@ -46,7 +46,7 @@
 7. Size of content
 
 - **Cookies**
-- Website-specific code tored in a person's browser to ease navigation.
+- Website-specific code stored in a person's browser to ease navigation.
 
 - **Cookies Have Limitations**:-
 - Don't work across browsers and devices.
