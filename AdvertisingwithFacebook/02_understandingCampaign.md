@@ -68,3 +68,5 @@
   - Campaigns
   - Ad Sets
   - Ads
+
+[watch again](coursera.org/learn/advertising-with-facebook/lecture/zQyeY/how-to-navigate-ads-manager)
