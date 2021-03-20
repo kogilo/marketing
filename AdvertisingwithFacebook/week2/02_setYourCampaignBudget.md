@@ -99,3 +99,48 @@
   - How much you want to spend over the entire period of your ad lifespan.
 
 * Set Ad Scheduling: Run ads on a schedule.
+
+## Campaign Bid Strategies
+
+- **NB**
+- **Facebook Ad Auction:**
+  Advertiser bid X Estimated action rate
+
+* Ad quality = Total value
+
+#### Advertiser bid:
+
+- The amount an advertiser is willing to pay for someone in their target audience to achieve a specific result.
+- **Only bid up to the true value of an acction**
+- CALLA & IVY
+
+  - She is running a campaign to generate flower craft kit which is sale for $38.00
+  - Profite from Flower kit: $20
+  - Flower kit value: more than $20 (b/c a new customer today will be constant)
+  - **Aution bid**: $15 - she decide w/c is under the value
+  - **Next you need to choose a Bid Strategies**
+  - Go to Campaign Budget Optimization
+  - Under `Campaign Bid Strategy`
+    - The default one being `Lowest cost`: The lowest possible cost per desired action.
+    - Good if you ahave limited budget and you want to achieve many result with that budget.
+    - For CALLA & IVY, she choose Bid Cap.
+    -
+
+  ## Bid Strategies;
+
+  1. Lowest Cost
+  2. Cost Cap
+
+  - allows you to set an average amount you're willing to pay for a desired outcome, like a conversion on your website, this amount is known as cost control.
+  - The amount is known as `Cost Control`: under which you get the lowest cost aution.
+  - CALLA & IVY: Worth of page visit: $2 Cost Control
+
+  3. Bid Cap
+
+  - While the cost cap strategy controls for the average cost per desired outcome over time, the bid cap strategy limits what Facebook can bid in every single auction.
+  - It is called `Bid Control`
+  - CALLA & IVY : She set Bid Cap at $20.
+
+  [Campaign Bid Strategy Guide](https://www.coursera.org/learn/advertising-with-facebook/supplement/0zaJv/campaign-bid-strategy-guide)
+
+[A/B Testing](coursera.org/learn/advertising-with-facebook/supplement/m2DgA/a-b-testing)
