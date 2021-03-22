@@ -122,7 +122,7 @@
   - Go to Campaign Budget Optimization
   - Under `Campaign Bid Strategy`
     - The default one being `Lowest cost`: The lowest possible cost per desired action.
-    - Good if you ahave limited budget and you want to achieve many result with that budget.
+    - Good if you a have limited budget and you want to achieve many result with that budget.
     - For CALLA & IVY, she choose Bid Cap.
     -
 
