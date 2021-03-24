@@ -18,3 +18,32 @@
 - `Filters`:
 - `Columns Performance`
 -
+
+### Analyze Your Campaign Results
+
+- **Campaign** - `Objective:` Conversions (Catalog Requests) - 2 ad set - Ad set 1:
+  Target Audience: Cat owners, aged 20-49, living in the US. - Ad set 2:
+  Target Audience: Dog owners, aged 20-49, living in the US. - It was active for about a week:
+  [camRes](camRes.png)
+
+* **Campaign Leverl:**
+
+- Campaing Name: Inu + Neko Catalog Requests
+- Delivery: Active
+- Budget: $300.00 Daily
+-
+
+* **Ad Sets Level**
+* **Ads**
+
+### How the Campaign Objective Determines Your Key Metrics
+
+- **Results**:- The number of outcomes based on the campaign objective and settings.
+- **Cost per Result**: Total amount spent / Total number of results
+
+![met](01met.png)
+![met](02met.png)
+![met](03met.png)
+![met](04met.png)
+![met](05met.png)
+![met](06met.png)
