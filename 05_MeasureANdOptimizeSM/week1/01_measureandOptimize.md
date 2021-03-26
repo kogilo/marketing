@@ -109,7 +109,8 @@
 - **Analytics dashboards** will often allow you to customize the data you're looking at. So if you know that you want to track something very specific, like the sequence of pages a customer visits through a website. Or where they're entering from, you can set it up to give you data on just that. Again, you're seeking out answers to the questions you already formulated in advance.
 - **Source of Data**
 
-  - `Facebook Ads Manger:`
+  1. `Facebook Ads Manger:`
+
   - At `Campaign Level`
 
     - Results | Reasch | Impressions | Cost per Result | Amount Spent
@@ -117,3 +118,33 @@
   - You can add more columns to show you more information
 
 ![dataScource](dataScource.png)
+
+- Click `Customize Colunms`
+
+2. `Facebook Insights:`
+
+![dataScource2](dataScource2.png)
+
+#### Aggregated Social Media Analytics:
+
+- Examples:
+  - Hootsuite
+  - Buffer
+  - Sprout Social
+  - Sendible
+  - SEMrush
+  - CoSchedule
+
+#### Social Media Advertising Analytics:
+
+- Examples:
+  - Qwaya
+  - AdEspresso
+
+#### Website Analytics:
+
+- Examples:
+  - Squarespace
+  - Wix
+
+#### Website Analytics with Google Analytics: Free
