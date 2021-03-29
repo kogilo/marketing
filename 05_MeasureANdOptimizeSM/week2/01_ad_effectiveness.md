@@ -184,7 +184,7 @@
     - Choose desired actions higher in the purcahse funnel
 
 - **Lift Results**
-  - Cnversion Lift Percent: 65.5% : `gives you the difference in conversions between the people who did and did not have the opportunity to see your ad during this test. The conversion lift tells you how many additional conversions happened as a result of your ads.`
+  - Cnversion Lift Percent: 65.5% : `gives you the difference in conversions between the people who did and did not have the opportunity to see your ad during this test.`
   - Conversion Lift: 129K: `tells you how many additional conversions happened as a result of your ads.`
   - Sales Lift: $864K: `tells you how much value was generated from those additional conversions.`
     - Cost Per Conversion Lift: $0.63: `he cost of each additional conversion cost by your ads`
