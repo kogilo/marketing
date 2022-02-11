@@ -3,7 +3,7 @@
 ## Campaign Brief for Ads Manager Walk Through
 
 - **Inu + Neko**
-  - They are selling come of their product with discount upto 50% in fall.
+  - They are selling some of their product with discount upto 50% in fall.
   - **Inu + Neko Fall Sale Campaign:-**
     - **Goal**: >= 280 sales.
     - **Budget**: $500/day.
